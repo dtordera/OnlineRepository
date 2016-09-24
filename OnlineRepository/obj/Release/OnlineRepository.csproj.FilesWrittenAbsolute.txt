@@ -1,0 +1,5 @@
+/home/nnn/Desktop/_PROJECTS/OnlineRepository/OnlineRepository/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nnn/Desktop/_PROJECTS/OnlineRepository/OnlineRepository/bin/OnlineRepository.dll.mdb
+/home/nnn/Desktop/_PROJECTS/OnlineRepository/OnlineRepository/bin/OnlineRepository.dll
+/home/nnn/Desktop/_PROJECTS/OnlineRepository/OnlineRepository/obj/Release/OnlineRepository.dll
+/home/nnn/Desktop/_PROJECTS/OnlineRepository/OnlineRepository/obj/Release/OnlineRepository.dll.mdb
